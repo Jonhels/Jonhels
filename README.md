@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonhels
-- 👀 I’m interested in front end development in react and JavaScript.
+- 👀 I’m interested in development in React, Expo and JavaScript.
 - 🌱 I’m currently learning web development at NTNU: Norwegian University of Science and Technology.
-- 💞️ I’m looking to collaborate on react website projects and/or other fun projects to do!
+- 💞️ I’m looking for work in development, hit me up if you want me to create something.
 - 📫 How to reach me you can reach me at jonhels8888@gmail.com
 
 <!---
